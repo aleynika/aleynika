@@ -32,9 +32,9 @@ Welcome to my GitHub portfolio! I'm passionate about blending fine arts, visual 
 - **[Cinematic Photography](https://studiofremir.mypixieset.com/)** – A series of images that turns everyday moments into cinematic stories. These photographs are inspired by the divine beauty found in the mundane.
 
 ### 🌐 Website Redesign
-- **[Before Design](https://www.canva.com/design/DAGbooNUl30/yG_y_QaOL60NWiZka15gpw/view?utm_content=DAGbooNUl30&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc2ed09114a)** – The original website design, which provided the foundation for improvements in layout, branding, and user experience.
+- **[Before](https://www.canva.com/design/DAGbooNUl30/yG_y_QaOL60NWiZka15gpw/view?utm_content=DAGbooNUl30&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc2ed09114a)** – The original website design, which provided the foundation for improvements in layout, branding, and user experience.
 
-- **[After Design](https://www.canva.com/design/DAGe7P-Ug7w/qzIOIMeTN8IEbLvmG5bSQA/edit)** – The final redesigned version, incorporating streamlined branding and clear presentation of services to better connect with potential clients.
+- **[After](https://www.canva.com/design/DAGe7P-Ug7w/qzIOIMeTN8IEbLvmG5bSQA/edit)** – The final redesigned version, incorporating streamlined branding and clear presentation of services to better connect with potential clients.
 
 Feel free to check out both versions to see the design process and how I helped enhance a social media manager's online presence!
 
