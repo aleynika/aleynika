@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! I'm passionate about blending fine arts, visual 
 - **[Bakery Shop Database](https://github.com/aleynika/SQL/blob/main/Bakery%20Database%20and%20Stats)** – A SQL-driven inventory management system designed to track and organize bakery stock, including pricing, markup, and sales data.
 
 ### 🎨 Creative Works
-- **[Expressionist Art](#)** – My collection of paintings aims to embody the raw emotions and divine happenings of human life, from joy to sorrow alongside His presence.
+- **Expressionist Art** – My collection of paintings aims to embody the raw emotions and divine happenings of human life, from joy to sorrow alongside His presence.
   
 - **[Cinematic Photography](https://studiofremir.mypixieset.com/)** – A series of images that turns everyday moments into cinematic stories. These photographs are inspired by the divine beauty found in the mundane.
 
