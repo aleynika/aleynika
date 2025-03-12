@@ -20,6 +20,7 @@ Welcome to my GitHub portfolio! I'm passionate about blending fine arts, visual 
 ---
 
 ## 📌 Featured Projects
+
 ### 📊 Data Analytics
 - **[Pokémon Data Dig (2023)](https://github.com/aleynika/SQL/blob/main/Pokemon%20Data%20Dig)** – An interactive SQL-based tool that allows users to query and filter Pokémon data to select the best Pokémon based on attributes such as attack and defense.
 
@@ -27,8 +28,15 @@ Welcome to my GitHub portfolio! I'm passionate about blending fine arts, visual 
 
 ### 🎨 Creative Works
 - **Expressionist Art** – My collection of paintings aims to embody the raw emotions and divine happenings of human life, from joy to sorrow alongside His presence.
-  
+
 - **[Cinematic Photography](https://studiofremir.mypixieset.com/)** – A series of images that turns everyday moments into cinematic stories. These photographs are inspired by the divine beauty found in the mundane.
+
+### 🌐 Website Redesign
+- **[Before Design](https://www.canva.com/design/DAGbooNUl30/yG_y_QaOL60NWiZka15gpw/view?utm_content=DAGbooNUl30&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc2ed09114a)** – The original website design, which provided the foundation for improvements in layout, branding, and user experience.
+
+- **[After Design](https://www.canva.com/design/DAGe7P-Ug7w/qzIOIMeTN8IEbLvmG5bSQA/edit)** – The final redesigned version, incorporating streamlined branding and clear presentation of services to better connect with potential clients.
+
+Feel free to check out both versions to see the design process and how I helped enhance her online presence!
 
 ---
 
