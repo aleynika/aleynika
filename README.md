@@ -43,7 +43,7 @@ These hobbies help me stay grounded, and often inspire the art and projects I wo
 
 ---
 
-## 🎓 Certifications & Education
+## 🎓 Education & Certifications
 - **Associate of Arts Degree in General Studies** – St. Louis Community College
   
 - **Responsive Web Design Certification** – freeCodeCamp  
