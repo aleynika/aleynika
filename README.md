@@ -21,9 +21,9 @@ Welcome to my GitHub portfolio! I'm passionate about blending fine arts, visual 
 
 ## 📌 Featured Projects
 ### 📊 Data Analytics
-- **[Pokémon Data Dig](https://github.com/aleynika/SQL/blob/main/Pokemon%20Data%20Dig)** – An interactive SQL-based tool that allows users to query and filter Pokémon data to select the best Pokémon based on attributes such as attack and defense.
+- **[Pokémon Data Dig (2023)](https://github.com/aleynika/SQL/blob/main/Pokemon%20Data%20Dig)** – An interactive SQL-based tool that allows users to query and filter Pokémon data to select the best Pokémon based on attributes such as attack and defense.
 
-- **[Bakery Shop Database](https://github.com/aleynika/SQL/blob/main/Bakery%20Database%20and%20Stats)** – A SQL-driven inventory management system designed to track and organize bakery stock, including pricing, markup, and sales data.
+- **[Bakery Shop Database (2023)](https://github.com/aleynika/SQL/blob/main/Bakery%20Database%20and%20Stats)** – A SQL-driven inventory management system designed to track and organize bakery stock, including pricing, markup, and sales data.
 
 ### 🎨 Creative Works
 - **Expressionist Art** – My collection of paintings aims to embody the raw emotions and divine happenings of human life, from joy to sorrow alongside His presence.
