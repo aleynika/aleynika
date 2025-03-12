@@ -36,7 +36,7 @@ Welcome to my GitHub portfolio! I'm passionate about blending fine arts, visual 
 
 - **[After Design](https://www.canva.com/design/DAGe7P-Ug7w/qzIOIMeTN8IEbLvmG5bSQA/edit)** – The final redesigned version, incorporating streamlined branding and clear presentation of services to better connect with potential clients.
 
-Feel free to check out both versions to see the design process and how I helped enhance her online presence!
+Feel free to check out both versions to see the design process and how I helped enhance a social media manager's online presence!
 
 ---
 
