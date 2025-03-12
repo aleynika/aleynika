@@ -4,7 +4,7 @@
 
 **Creative Professional | Visual Artist | Data Enthusiast**
 
-Welcome to my GitHub portfolio! I'm passionate about blending fine arts, visual storytelling, and data analytics. Here, you'll find my projects in **SQL, web design, interactive art, data visualization, and more.**
+Welcome to my GitHub portfolio! I'm passionate about blending fine arts, visual storytelling, and data analytics. Here, you'll find my projects in **SQL, web design, photography, and more.**
 
 ## 🎭 About Me
 - 🎨 **Expressionist Painter** – Creating emotion-driven artwork that seeks to reflect the human experience.
