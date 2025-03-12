@@ -32,6 +32,17 @@ Welcome to my GitHub portfolio! I'm passionate about blending fine arts, visual 
 
 ---
 
+## ✨ Hobbies
+When I'm not working on data or painting, I enjoy exploring new ways to connect with my creativity and the world around me. My hobbies include:
+- **Reading** – Diving into books that challenge and inspire me.
+- **Thrift Shopping** – Finding unique pieces with stories to tell.
+- **Photography** – Capturing the beauty of everyday moments.
+- **Cooking** – Experimenting with plant-based recipes and French cuisine.
+
+These hobbies help me stay grounded, and often inspire the art and projects I work on.
+
+---
+
 ## 🎓 Certifications & Education
 - **Associate of Arts Degree in General Studies** – St. Louis Community College
   
