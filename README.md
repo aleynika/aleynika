@@ -1,3 +1,5 @@
+![Banner](./banner)
+
 # 🌱 Hello, I'm Aleynika (ah-LAY-nee-cuh)
 
 **Creative Professional | Visual Artist | Data Enthusiast**
