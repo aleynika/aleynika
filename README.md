@@ -61,7 +61,6 @@ Explore both versions to see how I enhanced a social media manager's online pres
   
 - **Responsive Web Design Certification** – freeCodeCamp  
 - **Data Science Certification Program** – Harvard (currently enrolled)  
-- **[Freelance Cinematic Photography](https://studiofremir.mypixieset.com/)** – Independent Practice  
 - **Data Analytics Certification Program** – IBM (currently enrolled)
 
 ---
