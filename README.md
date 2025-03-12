@@ -42,14 +42,17 @@ Feel free to check out both versions to see the design process and how I helped 
 
 ---
 
-## ✨ Hobbies
-When I'm not working on data or painting, I enjoy exploring new ways to connect with my creativity and the world around me. My hobbies include:
-- **Reading** – Diving into books that challenge and inspire me.
-- **Thrift Shopping** – Finding unique pieces with stories to tell.
-- **Photography** – Capturing the beauty of everyday moments.
-- **Cooking** – Experimenting with plant-based recipes and French cuisine.
+## ✨ Hobbies & Inspo
 
-These hobbies help me stay grounded, and often inspire the art and projects I work on.
+| Engagement            | Time Spent (Quarterly)              |
+|----------------------|----------------------------|
+| Reading              | ![Reading](https://progress-bar.xyz/15) |
+| Thrifting            | ![Thrifting](https://progress-bar.xyz/3)   |
+| Photographing        | ![Photographing](https://progress-bar.xyz/27) |
+| Cooking              | ![Cooking](https://progress-bar.xyz/11) |
+| Artwork              | ![Artwork](https://progress-bar.xyz/17) |
+| Learning             | ![Learning](https://progress-bar.xyz/20) |
+| Digital Designing     | ![Digital Designing](https://progress-bar.xyz/7) |
 
 ---
 
