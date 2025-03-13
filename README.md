@@ -52,7 +52,7 @@ Here, you'll find case studies and projects where I apply **SQL**, **data visual
 
 - **Associate of Arts in General Studies** – St. Louis Community College  
 - **Responsive Web Design Certification** – freeCodeCamp  
-- **Financial Accounting Professional Certification** – New York Financial Institute (In Progress)  
+- **Financial Accounting Professional Certification** – New York Institute of Finance (In Progress)  
 - **Data Analytics Certification** – BIT (In Progress)  
 
 ---
