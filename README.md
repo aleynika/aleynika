@@ -59,6 +59,7 @@ If you're looking for a **data-driven professional** with strong SQL skills to o
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleynika-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aleynika)  
 [📧 Email Me](mailto:aleyktaylor@gmail.com)  
+[📄 View My Resume](https://earnbetter.com/app/share/resume/01JF7GQQ9D3FAY87MM4X8QP5CX/)
 
 ---
 
