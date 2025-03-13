@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I specialize in **SQL**, data analysis, and busine
 
 ### 📊 SQL Data Analysis
 
-- **[Superstore Inventory Analysis (2023)](https://github.com/aleynika/SQL/blob/main/Superstore%20Inventory%20Analysis)**  
+- **[Superstore Inventory Analysis (2025)](https://github.com/aleynika/SQL/blob/main/Superstore-Inventory-Analysis)**  
   Analyzing sales and inventory data for a superstore using SQL to optimize stock levels and sales strategies. The project involved **JOINs**, **aggregations**, and **window functions** to create insightful dashboards about inventory performance, sales trends, and stock forecasts.
 
 - **[Pokémon Stats Analysis (2023)](https://github.com/aleynika/SQL/blob/main/Pokemon_Stats_Analysis)**  
