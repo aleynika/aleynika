@@ -2,64 +2,68 @@
 
 # 🌱 Hello, I'm Aleynika (ah-LAY-nee-cuh)  
 
-**SQL & Data Analyst | Business Optimization | Insights-Driven Problem Solver**  
+**SQL & Data Analyst | Business Intelligence | Insight-Driven Problem Solver**  
 
-Welcome to my GitHub profile! I specialize in **SQL**, data analysis, and business operations optimization. I'm passionate about leveraging data to drive business insights and improve decision-making. Here, you'll find my projects focused on **SQL**, **data insights**, and **small business management**.  
+Welcome to my GitHub! I’m passionate about turning raw data into clear, impactful insights that drive smarter business decisions. With a strong foundation in **SQL**, **data analysis**, and **business optimization**, I specialize in uncovering trends, improving efficiency, and helping organizations make data-backed decisions.  
+
+Here, you'll find case studies and projects where I apply **SQL**, **data visualization**, and **business intelligence techniques** to solve real-world problems.  
 
 ---
 
 ## 🛠️ Key Skills  
-- **SQL**: Writing effective queries, data manipulation, joins, filtering, and aggregating data to draw insights  
-- **Data Analysis**: Data extraction, cleaning, and visualizing key trends for business decisions  
-- **Business Operations**: Process optimization, data-driven decision-making  
-- **Soft Skills**: Critical thinking, problem-solving, and process improvement  
-- **Tools**: SQLite, Discord, Slack  
+
+- **SQL Mastery** – Writing optimized queries, working with relational databases, and leveraging advanced techniques like **window functions** and **CTEs**  
+- **Data Analysis & Visualization** – Extracting, cleaning, and visualizing data to identify trends and drive business decisions  
+- **Business Intelligence** – Using data to optimize operations, enhance forecasting, and improve decision-making  
+- **Process Optimization** – Identifying inefficiencies and implementing data-driven solutions for business growth  
+- **Soft Skills** – Strong analytical thinking, problem-solving, and effective communication of insights  
+- **Tools & Technologies** – SQL, SQLite, Tableau, Excel, Power BI, Google Sheets  
 
 ---
 
 ## 📌 Featured Case Studies  
 
-### 📊 SQL Data Analysis  
+### 📊 SQL & Business Intelligence  
 
 - **[Superstore Inventory Analysis (2025)](https://github.com/aleynika/SQL/blob/main/Superstore-Inventory-Analysis)**  
-  Conducted an in-depth analysis of sales and inventory data for a superstore using SQL. Leveraged **JOINs**, **aggregations**, and **window functions** to optimize stock levels, reduce overstock, and improve sales forecasting. Provided actionable insights that enhanced restocking efficiency and minimized lost revenue due to stockouts.  
+  Conducted an **inventory and sales performance analysis** for a major retailer using SQL. Leveraged **JOINs, aggregations, and window functions** to identify inefficiencies in stock management. The insights led to **optimized restocking**, reduced overstock, and improved revenue retention.  
 
 - **[Pokémon Stats Analysis (2023)](https://github.com/aleynika/SQL/blob/main/Pokemon_Stats_Analysis)**  
-  Analyzed Pokémon data using SQL to determine the best competitive battle strategies. Utilized **aggregate functions**, **GROUP BY**, and **JOINs** to identify trends in attack, defense, and special abilities, providing insights for team optimization.  
+  Applied SQL to analyze Pokémon battle statistics and competitive performance. Used **aggregate functions, GROUP BY, and subqueries** to uncover strengths and weaknesses across Pokémon types, providing strategic insights for competitive gameplay.  
 
-- **[Bakery Inventory Analysis (2023)](https://github.com/aleynika/SQL/blob/main/Bakery_Inventory_Analysis)**  
-  Optimized a bakery's inventory by analyzing sales trends and stock levels using SQL. Extracted data insights to improve purchasing decisions, reduce waste, and enhance inventory turnover.  
-
----
-
-## ✨ Hobbies & Interests  
-
-| Engagement            | Time Spent (Quarterly)              |  
-|----------------------|----------------------------|  
-| Reading              | ![Reading](https://progress-bar.xyz/15) |  
-| Thrifting            | ![Thrifting](https://progress-bar.xyz/3)   |  
-| Photographing        | ![Photographing](https://progress-bar.xyz/27) |  
-| Cooking              | ![Cooking](https://progress-bar.xyz/11) |  
-| Learning             | ![Learning](https://progress-bar.xyz/20) |  
+- **[Bakery Inventory Optimization (2023)](https://github.com/aleynika/SQL/blob/main/Bakery_Inventory_Analysis)**  
+  Analyzed a bakery's inventory trends using SQL, identifying **seasonal demand patterns and stock inefficiencies**. The data-driven recommendations helped reduce waste and improve product availability.  
 
 ---
 
-## 🎓 Education  
+## ✨ Beyond Data: My Interests  
 
-- **Associate of Arts Degree in General Studies** – St. Louis Community College  
+| Passion             | Engagement Level (Quarterly) |  
+|---------------------|----------------------------|  
+| 📖 Reading         | ![Reading](https://progress-bar.xyz/15) |  
+| 🛍️ Thrifting       | ![Thrifting](https://progress-bar.xyz/3)   |  
+| 📸 Photography      | ![Photographing](https://progress-bar.xyz/27) |  
+| 🍳 Cooking         | ![Cooking](https://progress-bar.xyz/11) |  
+| 📚 Lifelong Learning | ![Learning](https://progress-bar.xyz/20) |  
+
+---
+
+## 🎓 Education & Certifications  
+
+- **Associate of Arts in General Studies** – St. Louis Community College  
 - **Responsive Web Design Certification** – freeCodeCamp  
-- **Financial Accounting Professional Certification – New York Financial Institute (In Progress)**  
-- **Data Analytics Certification – BIT (In Progress)**  
+- **Financial Accounting Professional Certification** – New York Financial Institute (In Progress)  
+- **Data Analytics Certification** – BIT (In Progress)  
 
 ---
 
 ## 📬 Let's Connect!  
 
-If you're looking for a **data-driven professional** with strong SQL skills to optimize business operations and uncover actionable insights, I’d love to connect. Feel free to reach out if you're interested in collaborating on data-driven projects!  
+Looking for a **data-driven professional** who can translate complex datasets into **actionable insights**? I’d love to connect! Whether you’re hiring for a **BI role**, need a **SQL expert**, or want to collaborate on a data-driven project, let’s talk.  
 
+📧 [Email Me](mailto:aleyktaylor@gmail.com)  
+📄 [View My Resume](https://earnbetter.com/app/share/resume/01JF7GQQ9D3FAY87MM4X8QP5CX/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleynika-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aleynika)  
-[📧 Email Me](mailto:aleyktaylor@gmail.com)  
-[📄 View My Resume](https://earnbetter.com/app/share/resume/01JF7GQQ9D3FAY87MM4X8QP5CX/) 
 
 ---
 
