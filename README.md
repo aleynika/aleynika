@@ -4,15 +4,15 @@
 
 **Business Operations Analyst | Data Analyst | SQL Enthusiast**
 
-Welcome to my GitHub portfolio! I specialize in **SQL**, data analysis, and business operations optimization. I'm passionate about leveraging data to drive business insights and improve decision-making. Here, you'll find my projects focused on **SQL**, **data interpretation**, and **business systems**.
+Welcome to my GitHub profile! I specialize in **SQL**, data analysis, and business operations optimization. I'm passionate about leveraging data to drive business insights and improve decision-making. Here, you'll find my projects focused on **SQL**, **data insights**, and **small business management**.
 
 ---
 
 ## 🛠️ Key Skills
-- **SQL**: Writing complex queries, data manipulation, joins, filtering, and aggregating data to draw insights
+- **SQL**: Writing effective queries, data manipulation, joins, filtering, and aggregating data to draw insights
 - **Data Analysis**: Data extraction, cleaning, and visualizing key trends for business decisions
-- **Business Operations**: Process optimization, data-driven decision making, performance tracking
-- **Tools**: SQLite, Excel, Notion, Slack
+- **Business Operations**: Process optimization, data-driven decision making
+- **Tools**: SQLite, Discord, Slack
 
 ---
 
@@ -23,10 +23,10 @@ Welcome to my GitHub portfolio! I specialize in **SQL**, data analysis, and busi
 - **[Superstore Inventory Analysis (2023)](https://github.com/aleynika/SQL/blob/main/Superstore%20Inventory%20Analysis)**  
   Analyzing sales and inventory data for a superstore using SQL to optimize stock levels and sales strategies. The project involved **JOINs**, **aggregations**, and **window functions** to create insightful dashboards about inventory performance, sales trends, and stock forecasts.
 
-- **[Pokémon Data Insight (2023)](https://github.com/aleynika/SQL/blob/main/Pokemon%20Data%20Insight)**  
+- **[Pokémon Stats Analysis (2023)](https://github.com/aleynika/SQL/blob/main/Pokemon_Stats_Analysis)**  
   This project uses SQL to extract and analyze Pokémon data. By utilizing **aggregate functions**, **GROUP BY**, and **JOINs**, I helped users identify the best Pokémon for competitive battle by analyzing key attributes like attack and defense.
 
-- **[Bakery Goods Inventory Analysis (2023)](https://github.com/aleynika/SQL/blob/main/Bakery%20Goods%20Inventory%20Analysis)**  
+- **[Bakery Inventory Analysis (2023)](https://github.com/aleynika/SQL/blob/main/Bakery_Inventory_Analysis)**  
   Conducted an in-depth analysis of bakery inventory using SQL to optimize stock levels and pricing strategies. By utilizing **SQL queries**, **data aggregation**, and **sales trend analysis**, I derived actionable insights that helped inform better stock management and pricing decisions.
 
 ---
