@@ -1,4 +1,4 @@
-![Banner](./github-photog-banner.png)  
+![Banner](./IMG_0502.jpeg)  
 
 # 🌱 Hello, I'm Aleynika (ah-LAY-nee-cuh)  
 
