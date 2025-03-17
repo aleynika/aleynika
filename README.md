@@ -32,7 +32,7 @@ Here, you'll find case studies and projects where I apply **SQLite** and **solut
   Applied SQL to analyze Pokémon battle statistics and competitive performance. Used **aggregate functions, GROUP BY, and subqueries** to uncover strengths and weaknesses across Pokémon types, providing strategic insights for competitive gameplay.  
 
 - **[Bakery Inventory Optimization (2023)](https://github.com/aleynika/SQL/blob/main/Bakery_Inventory_Analysis)**  
-  Analyzed a bakery's inventory trends using SQL, identifying **seasonal demand patterns and stock inefficiencies**. The data-driven recommendations helped reduce waste and improve product availability.  
+  Analyzed a bakery's inventory trends using SQL, identifying **demand patterns and stock inefficiencies**. The data-driven recommendations helped improve product availability.  
 
 ---
 
