@@ -12,7 +12,7 @@ Here, you'll find case studies and projects where I apply **SQLite** and **solut
 
 ## 🛠️ Key Skills  
 
-- **SQL Mastery** – Writing optimized queries, working with relational databases, and leveraging advanced techniques like **window functions** and **CTEs**  
+- **SQL Toolbelt** – Writing goal-oriented queries, working with relational databases, and leveraging techniques like **aggregations** 
 - **Data Analysis** – Extracting and organizing data to identify trends and drive business decisions and operations
 - **Business Intelligence** – Using data to optimize business functions, enhance forecasting, and improve decision-making  
 - **Process Optimization** – Identifying inefficiencies and possible sales friction to fuel data-driven solutions for business growth  
