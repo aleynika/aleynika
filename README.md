@@ -6,18 +6,18 @@ Data Analyst | Business Intelligence | Insight-Driven Problem Solver**
 
 Welcome to my GitHub! I’m passionate about turning raw data into clear, impactful insights that drive smarter business decisions. With a strong foundation in **SQL**, **data analysis**, and **business optimization**, I specialize in uncovering trends, improving efficiency, and helping organizations make data-backed decisions.  
 
-Here, you'll find case studies and projects where I apply **SQL**, **data visualization**, and **business intelligence techniques** to solve real-world problems.  
+Here, you'll find case studies and projects where I apply **SQLite** and **solution-oriented techniques** to approach real-world problems.  
 
 ---
 
 ## 🛠️ Key Skills  
 
 - **SQL Mastery** – Writing optimized queries, working with relational databases, and leveraging advanced techniques like **window functions** and **CTEs**  
-- **Data Analysis & Visualization** – Extracting, cleaning, and visualizing data to identify trends and drive business decisions  
-- **Business Intelligence** – Using data to optimize operations, enhance forecasting, and improve decision-making  
-- **Process Optimization** – Identifying inefficiencies and implementing data-driven solutions for business growth  
+- **Data Analysis** – Extracting and organizing data to identify trends and drive business decisions and operations
+- **Business Intelligence** – Using data to optimize business functions, enhance forecasting, and improve decision-making  
+- **Process Optimization** – Identifying inefficiencies and possible sales friction to fuel data-driven solutions for business growth  
 - **Soft Skills** – Strong analytical thinking, problem-solving, and effective communication of insights  
-- **Tools & Technologies** – SQL, SQLite, Tableau, Excel, Power BI, Google Sheets  
+- **Tools & Technologies** – SQLite, Canva, Lightroom, Google Drive, Google Docs, Google Workspace, Slack, Discord, Notion 
 
 ---
 
@@ -38,7 +38,7 @@ Here, you'll find case studies and projects where I apply **SQL**, **data visual
 
 ## ✨ Beyond Data: My Interests  
 
-| Passion             | Engagement Level (Quarterly) |  
+| Passion             | Engagement Level |  
 |---------------------|----------------------------|  
 | 📖 Reading         | ![Reading](https://progress-bar.xyz/15) |  
 | 🛍️ Thrifting       | ![Thrifting](https://progress-bar.xyz/3)   |  
@@ -52,14 +52,13 @@ Here, you'll find case studies and projects where I apply **SQL**, **data visual
 
 - **Associate of Arts in General Studies** – St. Louis Community College  
 - **Responsive Web Design Certification** – freeCodeCamp  
-- **Financial Accounting Professional Certification** – New York Institute of Finance (In Progress)  
 - **Data Analytics Certification** – BIT (In Progress)  
 
 ---
 
 ## 📬 Let's Connect!  
 
-Looking for a **data-driven professional** who can translate complex datasets into **actionable insights**? I’d love to connect! Whether you’re hiring for a **BI role**, need a **SQL expert**, or want to collaborate on a data-driven project, let’s talk.  
+Looking for a **data-driven professional** who can translate raw datasets into **actionable insights**? I’d love to connect! Whether you’re hiring for a **data entry role**, need a **SQL wordsmith**, or want to collaborate on a data-driven project, let’s talk.  
 
 📧 [Email Me](mailto:aleyktaylor@gmail.com)  
 📄 [View My Resume](https://earnbetter.com/app/share/resume/01JF7GQQ9D3FAY87MM4X8QP5CX/)  
