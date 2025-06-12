@@ -4,7 +4,7 @@
 
 **Data Analyst | Business Intelligence | Insight-Driven Problem Solver**  
 
-Welcome to my GitHub! I’m passionate about turning raw data into clear, impactful insights that drive smarter business decisions. With a strong foundation in **SQL**, **data analysis**, and **business optimization**, I specialize in uncovering trends, improving efficiency, and helping organizations make data-backed decisions.  
+Welcome to my GitHub! I’m passionate about turning raw data into clear, impactful insights that drive smarter and impactful decisions. With a strong foundation in **SQL**, **data analysis**, and **process optimization**, I specialize in uncovering trends, improving efficiency, and helping people make data-backed decisions.  
 
 Here, you'll find case studies and projects where I apply **SQLite** and **solution-oriented techniques** to approach real-world problems.  
 
@@ -52,7 +52,8 @@ Here, you'll find case studies and projects where I apply **SQLite** and **solut
 
 - **Associate of Arts in General Studies** – St. Louis Community College  
 - **Responsive Web Design Certification** – freeCodeCamp  
-- **Data Analytics Certification** – BIT (In Progress)  
+- **Data Analytics Certification** – BIT (In Progress)
+- **Data Science Program** - HarvardX (In Progress)  
 
 ---
 
@@ -61,7 +62,7 @@ Here, you'll find case studies and projects where I apply **SQLite** and **solut
 Looking for a **data-driven professional** who can translate raw datasets into **actionable insights**? I’d love to connect! Whether you’re hiring for a **data entry role**, need a **SQL wordsmith**, or want to collaborate on a data-driven project, let’s talk.  
 
 📧 [Email Me](mailto:aleyktaylor@gmail.com)  
-📄 [View My Resume](https://earnbetter.com/app/share/resume/01JF7GQQ9D3FAY87MM4X8QP5CX/)  
+📄 [View My Resume](https://earnbetter.com/app/share/resume/01JQ4MC6J22DX9X4K3CKQFXVZE/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleynika-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aleynika)  
 
 ---
