@@ -10,7 +10,7 @@ Here, you'll find case studies and projects where I apply **SQLite** and **solut
 
 ---
 
-# 🫀Curious what I'm up to now? Keep up to date with my independent **maternal health policy analysis**! I hope to make more mothers heard by policmakers by bringing awareness to gaps in systems directly impacting maternal health.🫀
+# 🫀Curious what I'm up to now? Keep up to date with my independent **maternal health policy analysis**! I hope to make more mothers heard by policymakers by bringing awareness to gaps in systems directly impacting maternal health.🫀
 
 ---
 
