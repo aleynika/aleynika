@@ -2,7 +2,7 @@
 
 # 🌱 Hello, I'm Aleynika (ah-LAY-nee-cuh)  
 
-**Data Analyst | Business Intelligence | Insight-Driven Problem Solver**  
+**Data Analyst | Public Policy | Insight-Driven Problem Solver & Advocate**  
 
 Welcome to my GitHub! I’m passionate about turning raw data into clear, impactful insights that drive smarter and impactful decisions. With a strong foundation in **SQL**, **data analysis**, and **process optimization**, I specialize in uncovering trends, improving efficiency, and helping people make data-backed decisions.  
 
