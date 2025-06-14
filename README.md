@@ -8,7 +8,9 @@ Welcome to my GitHub! I’m passionate about turning raw data into clear, impact
 
 Here, you'll find case studies and projects where I apply **SQLite** and **solution-oriented techniques** to approach real-world problems.
 
-🫀Curious what I'm up to now? Keep up to date with my independent **maternal health policy analysis**! I hope to make mothers feel seen and heard through educating and bringing awareness to health care policies that directly impact maternal health.🫀
+---
+
+# 🫀Curious what I'm up to now? Keep up to date with my independent **maternal health policy analysis**! I hope to make more mothers heard by policmakers by bringing awareness to gaps in systems directly impacting maternal health.🫀
 
 ---
 
