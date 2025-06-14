@@ -65,9 +65,11 @@ Here, you'll find case studies and projects where I apply **SQLite** and **solut
 
 Looking for a **data-driven professional** who can translate raw datasets into **actionable insights**? I’d love to connect! Whether you’re hiring for a **data entry role**, need a **SQL wordsmith**, or want to collaborate on a data-driven project, let’s talk.  
 
-📧 [Email Me](mailto:aleyktaylor@gmail.com)  
-📄 [View My Resume](https://earnbetter.com/app/share/resume/01JQ4MC6J22DX9X4K3CKQFXVZE/)  
+- 📧[Email Me](mailto:aleyktaylor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleynika-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aleynika)  
+- **Medium:** [Read My Latest Post](https://medium.com/@aleyktaylor)
+- **Substack:** [Read My Latest Post](https://substack.com/@ecc317?r=1sv28o&utm_campaign=profile&utm_medium=profile-page)
+- [View My Resume](https://earnbetter.com/app/share/resume/01JQ4MC6J22DX9X4K3CKQFXVZE/)
 
 ---
 
