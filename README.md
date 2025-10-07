@@ -1,12 +1,12 @@
 ![Banner](./IMG_0502.jpeg)  
 
-# 🌱 Hello, I'm Aleynika (ah-LAY-nee-cuh)  
+# 🌱 Hello, I'm Aleynika (uh-LAY-nih-kuh)  
 
-**Data Analyst | Public Policy | Insight-Driven Problem Solver & Advocate**  
+**Digital Humanist | Public Policy Analyst | Text Analysis and Markup | Python, R, XML, SQL | Educator & Exhibit Curator**  
 
-Welcome to my GitHub! I’m passionate about turning raw data into clear, impactful insights that drive smarter and impactful decisions. With a strong foundation in **SQL**, **data analysis**, and **process optimization**, I specialize in uncovering trends, improving efficiency, and helping people make data-backed decisions.  
+Welcome to my GitHub! I’m passionate about preserving and highlighting historical data to encourage well-informed active citizenship and prevent data gaps. With a strong foundation in **SQL**, **data analysis**, and **process optimization**, I specialize in uncovering trends and helping people make data-backed decisions.  
 
-Here, you'll find case studies and projects where I apply **SQLite** and **solution-oriented techniques** to approach real-world problems.
+Here, you'll find case studies and projects where I apply **SQLite** and **education-oriented analysis** to approach historical research and public policies.
 
 ---
 
@@ -18,10 +18,9 @@ Here, you'll find case studies and projects where I apply **SQLite** and **solut
 
 - **SQL Toolbelt** – Writing goal-oriented queries, working with relational databases, and leveraging techniques like **aggregations** 
 - **Data Analysis** – Extracting and organizing data to identify trends and drive business decisions and operations
-- **Business Intelligence** – Using data to optimize business functions, enhance forecasting, and improve decision-making  
 - **Process Optimization** – Identifying inefficiencies and possible sales friction to fuel data-driven solutions for business growth  
 - **Soft Skills** – Strong analytical thinking, problem-solving, and effective communication of insights  
-- **Tools & Technologies** – SQLite, Canva, Lightroom, Google Drive, Google Docs, Google Workspace, Slack, Discord, Notion 
+- **Tools & Technologies** – SQL, HTML, XML, Python, R, Excel, Google Sheets, Tableau
 
 ---
 
@@ -54,10 +53,10 @@ Here, you'll find case studies and projects where I apply **SQLite** and **solut
 
 ## 🎓 Education & Certifications  
 
-- **Associate of Arts in General Studies** – St. Louis Community College  
-- **Responsive Web Design Certification** – freeCodeCamp  
-- **Data Analytics Certification** – BIT (In Progress)
-- **Data Science Program** - HarvardX (In Progress)  
+- **Associate of Arts in General Studies** – St. Louis Community College, 2023
+- **Responsive Web Design Certification** – freeCodeCamp, 2023
+- **Art History Certification** - Sorbonne University (In Progress)
+- **Bachelor of Arts in Liberal Arts** - Newlane University (In Progress)  
 
 ---
 
