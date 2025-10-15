@@ -1,70 +1,61 @@
-# 🌿 Aleynika — Data, Ethics & Storytelling  
+# 🕯️ Aleynika — Data, Memory & Meaning  
 
 > “Between numbers and narratives lies the space where history breathes again.”  
 
-Hello — I’m **Aleynika**, a data analyst and researcher focused on how information shapes understanding, policy, and memory.  
-My work connects **data analytics**, **digital humanities**, and **public health**, with a particular focus on **U.S. maternal mortality trends** and the **preservation of objective data** in the age of generative AI.  
+Hello — I’m **Aleynika**, a researcher and data analyst specializing in **digital humanities**, **archival organization**, and **data ethics**.  
+My work focuses on how we preserve and interpret historical data in an era increasingly shaped by automation and generative systems.  
+
+I’m passionate about designing **structured, transparent datasets** for art, history, and cultural institutions — ensuring that stories, artworks, and artifacts remain both **discoverable and authentic**.  
 
 ---
 
-## 💼 About Me  
-I bridge analytical precision with cultural and ethical awareness.  
-I approach every dataset — whether a public health record or a digital archive — as both **evidence and story**.  
-My goal is to use data not just to describe systems, but to help improve them.  
+## 🏛️ About My Work  
+
+I work at the intersection of **data analysis** and **human memory** — transforming archives and collections into accessible, meaningful structures.  
+I believe organizing information is an act of preservation — one that gives the past a stable voice in the digital present.  
 
 [![R](https://img.shields.io/badge/Code-R-blue?logo=r)](https://www.r-project.org/)
 [![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Focus-Digital Humanities](https://img.shields.io/badge/Field-Digital%20Humanities-lightgrey)](#)
+[![Archives](https://img.shields.io/badge/Interest-Archives%20%26%20Museums-brown)](#)
 [![Data Ethics](https://img.shields.io/badge/Focus-Data%20Ethics-yellow)](#)
-[![Research](https://img.shields.io/badge/Field-Digital%20Humanities-lightgrey)](#)
-[![Public Health](https://img.shields.io/badge/Field-Public%20Health-red)](#)
 
 ---
 
 ## ✨ Highlights  
-- Experienced in **data cleaning, visualization, and reporting** using `R`, `tidyverse`, and `Excel`.  
-- Conducting **independent research on U.S. maternal mortality**, using open government datasets (CDC, NIH, HRSA).  
-- Advocating for **data transparency** and the preservation of unbiased datasets amid generative AI development.  
-- Skilled in **metadata structuring**, **reproducible workflows**, and **ethical analytics** for cultural and historical data.  
-- Adept at communicating findings through **visual storytelling and dashboards**.  
+- Skilled in **data organization, metadata structuring, and visualization** for cultural and historical data.  
+- Experienced with **digital collection workflows** and transforming archival information into analytical datasets.  
+- Strong grounding in **R** and **Excel** for analysis, visualization, and reproducible research.  
+- Advocate for **data transparency** and the preservation of objective, human-created records in an AI-driven world.  
+- Conducting **independent research** on U.S. maternal mortality as an example of applied ethical analysis.  
 
 ---
 
-## 🔍 Focus Areas  
-- **U.S. Maternal Mortality Research** — quantitative and policy-linked analysis of maternal outcomes  
-- **Digital Humanities** — transforming cultural collections into structured, interpretable datasets  
-- **Data Ethics & Preservation** — protecting factual, human-generated data in algorithmic environments  
-- **Analytical Storytelling** — designing clear, contextual visual narratives for research and communication  
+## 🗂️ Focus Areas  
+- **Digital Humanities & Archival Data** — organizing and visualizing cultural collections.  
+- **Art History & Cultural Analytics** — revealing patterns of representation and influence in art and museum data.  
+- **Data Ethics & Preservation** — safeguarding factual records and historical datasets from algorithmic bias.  
+- **Analytical Storytelling** — transforming information into clear, contextual visual narratives.  
 
 ---
 
 ## 📁 Featured Projects  
 
-### 🌍 Mothers at Risk — *Analyzing U.S. Maternal Mortality*  
-**Goal:** Identify disparities and long-term trends in U.S. maternal health outcomes using federal and state datasets.  
-**Tools:** `R`, `tidyverse`, `ggplot2`, `Excel`  
-**Highlights:** Statistical modeling, time-series visualization, policy-linked reporting.  
-➡️ [View Repository](#)  
-
-![R](https://img.shields.io/badge/R-Data%20Analysis-blue?logo=r)
-![Excel](https://img.shields.io/badge/Excel-Visualization-green?logo=microsoft-excel)
-
----
-
-### 📜 Archival Echoes — *Representation in Cultural Collections*  
-**Goal:** Examine representation patterns in digitized museum and library archives.  
+### 🏺 Archival Echoes — *Representation in Cultural Collections*  
+**Goal:** Examine representation patterns across digitized museum and library archives.  
 **Tools:** `R`, `R Shiny`, `tidyverse`  
-**Highlights:** Metadata cleaning, visualization, reproducible documentation.  
+**Highlights:** Metadata cleaning, visualization, reproducible documentation, digital collection analysis.  
 ➡️ [View Repository](#)  
 
 ![R Shiny](https://img.shields.io/badge/R%20Shiny-Interactive%20Dashboards-blue)
-![Data Ethics](https://img.shields.io/badge/Data-Ethics-lightgrey)
+![Archives](https://img.shields.io/badge/Data-Archives%20%26%20Museums-brown)
 
 ---
 
-### 🗺️ Mapping Memory — *Exploring Cultural Data Through Visualization*  
-**Goal:** Develop an interactive R Shiny dashboard for exploring open-access cultural datasets.  
+### 🖼️ Mapping Memory — *Visualizing Cultural Data*  
+**Goal:** Develop an interactive dashboard for exploring open-access cultural datasets and their relationships.  
 **Tools:** `R`, `R Shiny`, `ggplot2`  
-**Highlights:** Interactive storytelling, UI design, user-driven data exploration.  
+**Highlights:** Interactive storytelling, design for museums and libraries, visual metadata exploration.  
 ➡️ [View Repository](#)  
 
 ![R](https://img.shields.io/badge/R-Shiny%20App-blue?logo=r)
@@ -72,31 +63,43 @@ My goal is to use data not just to describe systems, but to help improve them.
 
 ---
 
+### 🌿 Mothers at Risk — *Analyzing U.S. Maternal Mortality*  
+**Goal:** Demonstrate data analysis skills through independent study of maternal health outcomes in the U.S.  
+**Tools:** `R`, `tidyverse`, `Excel`  
+**Highlights:** Statistical analysis, time-series visualization, policy-linked data interpretation.  
+➡️ [View Repository](#)  
+
+![R](https://img.shields.io/badge/R-Data%20Analysis-blue?logo=r)
+![Excel](https://img.shields.io/badge/Excel-Visualization-green?logo=microsoft-excel)
+
+---
+
 ## 🧰 Technical Skills  
 **Languages & Tools:**  
 `R` · `Excel` · `R Shiny` · `ggplot2` · `tidyverse` · `Cognos Analytics`  
 
-**Methods & Strengths:**  
-Data wrangling · Visualization · Public health data analysis · Metadata design · Reproducible workflows · Ethical data documentation  
+**Core Strengths:**  
+Data cleaning · Visualization · Metadata design · Reproducible workflows · Cultural data analytics · Ethical data management  
 
 ---
 
 ## 🎓 Ongoing Learning  
 **IBM Data Analytics with Excel and R Professional Certificate**  
-→ Building technical fluency in data analysis, visualization, and ethical reporting.  
+→ Expanding fluency in analytical methods, ethical reporting, and visualization best practices.  
 
 ---
 
-## 🎯 Interests & Goals  
-- Joining research or cultural organizations that value **integrity in data and design**.  
-- Contributing to projects that **preserve public knowledge** and **inform policy through evidence**.  
-- Continuing independent research into **maternal mortality** and **data ethics in AI systems**.  
+## 🎯 Professional Interests  
+- Supporting **museums, galleries, or libraries** in digitization and data preservation efforts.  
+- Contributing to **archival management systems** and **collection metadata projects**.  
+- Advocating for **open, ethical data practices** in the humanities.  
+- Exploring the relationship between **AI, memory, and artistic recordkeeping**.  
 
 ---
 
 ## 🪞 Research Philosophy  
-I believe **data has memory** — and preserving its accuracy is a form of stewardship.  
-In an age when algorithms can rewrite or obscure truth, I strive to make my analyses **transparent, verifiable, and human-centered**.  
+I believe that every dataset is a fragment of memory — and that preserving its accuracy is a form of care.  
+As AI systems increasingly reinterpret our records, maintaining factual, transparent data becomes a cultural responsibility.  
 
 > *“Preservation begins with attention — and data, at its best, is a form of attention.”*  
 
@@ -111,7 +114,7 @@ In an age when algorithms can rewrite or obscure truth, I strive to make my anal
 
 ## ⚖️ License  
 Unless otherwise noted, all content in this repository is released under the **MIT License**.  
-Feel free to reference or adapt my code or research frameworks with proper credit.  
+Feel free to reference or adapt my code or research frameworks with attribution.  
 
 ---
 
