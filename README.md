@@ -39,38 +39,19 @@ I believe organizing information is an act of preservation — one that gives th
 
 ---
 
-## 📁 Featured Projects  
+## 📁 Featured Projects   
 
-### 🏺 Archival Echoes — *Representation in Cultural Collections*  
-**Goal:** Examine representation patterns across digitized museum and library archives.  
-**Tools:** `R`, `R Shiny`, `tidyverse`  
-**Highlights:** Metadata cleaning, visualization, reproducible documentation, digital collection analysis.  
-➡️ [View Repository](#)  
+### 🏺 [Archival Echoes](https://github.com/aleynika/archival-echoes)  
+Exploring representation and metadata patterns across digitized museum and library collections.  
 
-![R Shiny](https://img.shields.io/badge/R%20Shiny-Interactive%20Dashboards-blue)
-![Archives](https://img.shields.io/badge/Data-Archives%20%26%20Museums-brown)
+### 🖼️ [Mapping Memory](https://github.com/aleynika/mapping-memory)  
+Interactive R Shiny dashboard visualizing cultural datasets for museums and archives.  
 
----
+### 🌿 [Mothers at Risk](https://github.com/aleynika/mothers-at-risk)  
+Independent analysis of U.S. maternal mortality trends — applying data ethics and statistical storytelling.  
 
-### 🖼️ Mapping Memory — *Visualizing Cultural Data*  
-**Goal:** Develop an interactive dashboard for exploring open-access cultural datasets and their relationships.  
-**Tools:** `R`, `R Shiny`, `ggplot2`  
-**Highlights:** Interactive storytelling, design for museums and libraries, visual metadata exploration.  
-➡️ [View Repository](#)  
-
-![R](https://img.shields.io/badge/R-Shiny%20App-blue?logo=r)
-![Visualization](https://img.shields.io/badge/Data%20Visualization-ggplot2-orange)
-
----
-
-### 🌿 Mothers at Risk — *Analyzing U.S. Maternal Mortality*  
-**Goal:** Demonstrate data analysis skills through independent study of maternal health outcomes in the U.S.  
-**Tools:** `R`, `tidyverse`, `Excel`  
-**Highlights:** Statistical analysis, time-series visualization, policy-linked data interpretation.  
-➡️ [View Repository](#)  
-
-![R](https://img.shields.io/badge/R-Data%20Analysis-blue?logo=r)
-![Excel](https://img.shields.io/badge/Excel-Visualization-green?logo=microsoft-excel)
+### 🗃️ [Cataloging the Past](https://github.com/aleynika/cataloging-the-past)  
+Structuring and cleaning open museum metadata for improved searchability and long-term digital preservation.
 
 ---
 
