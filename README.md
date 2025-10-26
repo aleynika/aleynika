@@ -1,4 +1,4 @@
-# 🕯️ Aleynika — Data, Memory & Meaning  
+# 🕯️ Aley — Data, Memory & Meaning  
 
 > “Between numbers and narratives lies the space where history breathes again.”  
 
@@ -66,7 +66,9 @@ Data cleaning · Visualization · Metadata design · Reproducible workflows · C
 
 ## 🎓 Ongoing Learning  
 **IBM Data Analytics with Excel and R Professional Certificate**  
-→ Expanding fluency in analytical methods, ethical reporting, and visualization best practices.  
+→ Expanding fluency in analytical methods, ethical reporting, and visualization best practices.
+**Bachelor of Art in Liberal Arts at Newlane University**  
+→ Researching and critically analyzing works of various domains including history, natural science and literature.
 
 ---
 
